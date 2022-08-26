@@ -1,4 +1,4 @@
-<h1>Im frontend Developer</h1>
+<h1>I'm frontend Developer</h1>
 <br />
 <img src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif" alt="coder" height="300" />
 <br />
