@@ -1,6 +1,6 @@
 <h1>I'm frontend Developer</h1>
 
-<p>Hi all! I'm a beginner frontend.</p>
+<p>Hi everyone! I'm a beginner frontend developer.</p>
 <p>Every day I learn more and more new rules to become a senior frontend.</p>
 <p>This is where I will post my work.</p>
 <br />
