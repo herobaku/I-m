@@ -6,19 +6,17 @@
 
 # 🚀 About Me
 
+<img src="images/3.gif" height=150 align=right>
+
 Hi everyone! I'm a beginner frontend developer.
 
 Every day I learn more and more new rules to become a senior frontend.
 
 This is where I will post my work.
 
-# Img
+# Screenshots
 
 <img src="images/1.gif" height=300>
-
-<img src="images/2.gif" height=300>
-
-<img src="images/3.gif" height=250>
 
 # Other Common Github Profile Sections
 
