@@ -15,6 +15,7 @@ This is where I will post my work.
 ## Img
 
 ![developer](images/1.gif | width=250)
+![](images/1.gif link | width=100)
 
 ![developer](images/2.gif)
 
