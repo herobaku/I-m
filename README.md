@@ -14,7 +14,7 @@ This is where I will post my work.
 
 ## Img
 
-![developer](images/1.gif width="250")
+![developer](images/1.gif width="250px")
 
 ![developer](images/2.gif)
 
