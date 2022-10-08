@@ -1,6 +1,6 @@
 ![Logo](images/logo.png)
 
-## Authors
+# Authors
 
 - [@herobaku](https://www.github.com/herobaku)
 ## 🚀 About Me
@@ -15,7 +15,6 @@ This is where I will post my work.
 ## Img
 
 ![developer](images/1.gif | width=250)
-![d](images/1.gif link | width=100)
 
 ![developer](images/2.gif)
 
