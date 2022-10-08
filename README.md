@@ -1,4 +1,4 @@
-![Logo](https://clipground.com/images/web-developer-logo-4.png)
+![Logo](images/logo.png)
 
 ## Authors
 
