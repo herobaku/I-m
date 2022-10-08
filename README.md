@@ -14,11 +14,11 @@ This is where I will post my work.
 
 ## Img
 
-<img src="images/1.gif" alt="developer" height="300" />
+![developer](images/1.gif)
 
-<img src="images/2.gif" alt="developer" height="300">
+![developer](images/2.gif)
 
-<img src="images/3.gif" alt="developer" height="300">
+![developer](images/3.gif)
 
 ## Other Common Github Profile Sections
 
