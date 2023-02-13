@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emin</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=herobaku&label=Profile%20views&color=0e75b6&style=flat" alt="herobaku" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=Hello%2C+my+name+is+Emin;I+am+Junior+Frontend+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herobaku" alt="herobaku" /></a> </p>
 
