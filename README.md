@@ -15,6 +15,7 @@
 </p>
 <!-- Connect End -->
 
+<!-- Skills -->
 <h2 align="left">Skills:</h2>
 <p align="left">
 <h3 align="left">Standart</h3>
@@ -35,7 +36,9 @@
 <h3 align="left">Gitr</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+<!-- Skills End -->
 
+<!-- Project -->
 <h2>Last Projects:</h2>
   <br />
 <p align="left">
@@ -54,3 +57,4 @@
   <br />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herobaku&" alt="herobaku" />
 </p>
+<!-- Project End -->
