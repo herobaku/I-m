@@ -6,14 +6,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herobaku&margin-w=15" alt="herobaku" /></a> </p>
 <!-- Trophy End -->
 
-<p align="left"> <a href="https://twitter.com/herobaku" target="blank"><img src="https://img.shields.io/twitter/follow/herobaku?logo=twitter&style=for-the-badge" alt="herobaku" /></a> </p>
-
+<!-- Connect -->
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/herobaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="herobaku" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/herobaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herobaku" height="30" width="40" /></a>
 <a href="https://fb.com/herobaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="herobaku" height="30" width="40" /></a>
 </p>
+<!-- Connect End -->
 
 <h2 align="left">Skills:</h2>
 <p align="left">
