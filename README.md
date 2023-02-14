@@ -32,8 +32,21 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=herobaku&show_icons=true&locale=en&layout=compact" alt="herobaku" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=herobaku&show_icons=true&locale=en" alt="herobaku" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herobaku&" alt="herobaku" /></p>
+## Last Projects
+  <br />
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=herobaku&show_icons=true&locale=en&layout=compact" alt="herobaku" />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=herobaku&show_icons=true&locale=en" alt="herobaku" />
+  <br />
+  <br />
+  <br />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herobaku&" alt="herobaku" />
+</p>
